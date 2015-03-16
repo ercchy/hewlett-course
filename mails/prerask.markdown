@@ -23,4 +23,5 @@ Source: [xkcd.com]( http://xkcd.com )
 
 Happy Pythoning!
 
-–Your mechanical friend MOOCie
+![moocie face](../img/moocie-mug.jpg)  
+–Your mechanical friend MOOC-E
