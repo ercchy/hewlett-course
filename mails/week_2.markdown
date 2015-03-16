@@ -22,4 +22,5 @@ As always, ask for help for help on [P2PU's forum](http://discourse.p2pu.org/c/
 
 MOOC on!
 
-– MOOCie
+![moocie face](../img/moocie-mug.jpg)  
+–Your mechanical friend MOOC-E

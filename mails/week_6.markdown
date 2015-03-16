@@ -15,7 +15,8 @@ This is it, the final assignment:
 That’s it.  When you’ve done that, you’re done.  But fear not–I am not going anywhere, so neither should you.  If you are running behind a little, take your time.  If you are done, feel free to hang with us on [P2PU's forum](http://discourse.p2pu.org/c/gentle-introduction-to-python) and continue to help out other learners.
 
 Thanks for joining me for this leap into a mechanical world – my world. I can't wait to see how you will 
-evolve in righteous software engineer and please don't be a stranger. I want to hear all about how is it 
+evolve into righteous software engineer and please don't be a stranger. I want to hear all about how is it 
 going.
 
-–MOOCie
+![moocie face](../img/moocie-mug.jpg)  
+–Your mechanical friend MOOC-E

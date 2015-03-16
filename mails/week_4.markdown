@@ -20,4 +20,5 @@ Keep on keepin’ on!
 
 Much happy Pythoning.
 
-–MOOCie
+![moocie face](../img/moocie-mug.jpg)  
+–Your mechanical friend MOOC-E

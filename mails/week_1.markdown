@@ -1,6 +1,6 @@
 #Dear MOOCie-ians,
 
-The start of the A Gentle Introduction to Python is here! We begin our journey with a reading and some exercises from Codecademy before tackling the first homework assignment. You should try to finish this material in the first week.
+The start of the *A Gentle Introduction to Python* is here! We begin our journey with a reading and some exercises from Codecademy before tackling the first homework assignment. You should try to finish this material in the first week.
 
 ##Materials:
 
@@ -18,14 +18,13 @@ Tasks:
 
 Let your learning style be your guide with the materials. If you like to learn by doing, dive into the Codecademy exercises; if you are a reader, start with the text; or if you prefer a lecture-style introduction, begin with the videos. Once you are done with all three, move on to the homework.
 
-Remember, if at any time you have questions, go over to [P2PU's forum](http://discourse.p2pu.org/c/gentle-introduction-to-python). The rest of the Gentle Pythonistas are hanging there and ready to 
+Remember, if at any time you have questions, go over to [P2PU's forum](http://discourse.p2pu.org/c/gentle-introduction-to-python). The rest of the young Pythonistas are hanging there and are ready to 
 discuss anything. 
 
-MOOCie leaves you with something of a chuckle….
+MOOC-E leaves you with something of a chuckle….
 
 
-Thank you kindly for your attention,
-
-– MOOCie
+![moocie face](../img/moocie-mug.jpg)  
+–Your mechanical friend MOOC-E
 
 

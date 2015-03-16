@@ -24,6 +24,7 @@ As always, ask for help for help on [P2PU's forum](http://discourse.p2pu.org/c/
 
 Show off them mad skills!
 
-Much happy Pythoning.
+Much happy projecting.
 
-–MOOCie
+![moocie face](../img/moocie-mug.jpg)  
+–Your mechanical friend MOOC-E

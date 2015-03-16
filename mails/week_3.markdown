@@ -1,6 +1,11 @@
 #Dear MOOCie-ians,
 
-Welcome to week 3–you’ll be halfway done at the end of this week. More power to you! 
+Welcome to week 3–you’ll be halfway done at the end of this week. More power to you! You deserve this cute 
+kitten 
+
+![kitten](../img/cute-kitten.jpg)
+
+Now let's push forward.
 
 Materials:
 
@@ -20,4 +25,5 @@ Once again, I remind you not to panic if you are struggling to keep up. After al
 
 Much happy Pythoning.
 
-–MOOCie
+![moocie face](../img/moocie-mug.jpg)  
+–Your mechanical friend MOOC-E
